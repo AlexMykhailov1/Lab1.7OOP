@@ -1,0 +1,4 @@
+﻿  UnitTest1.7OOP.cpp
+Y:\Programming\Projects\Projects OOP\Lab1.7OOP\Lab1.7OOP\Payment.h(37,49): warning C4244: 'return': conversion from 'const double' to 'unsigned int', possible loss of data
+     Creating library Y:\Programming\Projects\Projects OOP\Lab1.7OOP\Debug\UnitTest1.7OOP.lib and object Y:\Programming\Projects\Projects OOP\Lab1.7OOP\Debug\UnitTest1.7OOP.exp
+  UnitTest1.7OOP.vcxproj -> Y:\Programming\Projects\Projects OOP\Lab1.7OOP\Debug\UnitTest1.7OOP.dll

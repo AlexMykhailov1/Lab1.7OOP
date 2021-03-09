@@ -1,0 +1,13 @@
+﻿  Date.cpp
+Y:\Programming\Projects\Projects OOP\Lab1.7OOP\Lab1.7OOP\Date.cpp(35,12): warning C4018: '>': signed/unsigned mismatch
+Y:\Programming\Projects\Projects OOP\Lab1.7OOP\Lab1.7OOP\Date.cpp(68,13): warning C4018: '>': signed/unsigned mismatch
+Y:\Programming\Projects\Projects OOP\Lab1.7OOP\Lab1.7OOP\Date.cpp(173,12): warning C4018: '<': signed/unsigned mismatch
+Y:\Programming\Projects\Projects OOP\Lab1.7OOP\Lab1.7OOP\Date.cpp(200,15): warning C4018: '>': signed/unsigned mismatch
+Y:\Programming\Projects\Projects OOP\Lab1.7OOP\Lab1.7OOP\Date.cpp(215,15): warning C4018: '>': signed/unsigned mismatch
+  Payment.cpp
+Y:\Programming\Projects\Projects OOP\Lab1.7OOP\Lab1.7OOP\Payment.h(37,49): warning C4244: 'return': conversion from 'const double' to 'unsigned int', possible loss of data
+  Source.cpp
+Y:\Programming\Projects\Projects OOP\Lab1.7OOP\Lab1.7OOP\Payment.h(37,49): warning C4244: 'return': conversion from 'const double' to 'unsigned int', possible loss of data
+  Generating Code...
+Y:\Programming\Projects\Projects OOP\Lab1.7OOP\Lab1.7OOP\Date.cpp(124): warning C4715: 'Date::IsLaterThan': not all control paths return a value
+  Lab1.7OOP.vcxproj -> Y:\Programming\Projects\Projects OOP\Lab1.7OOP\Debug\Lab1.7OOP.exe
